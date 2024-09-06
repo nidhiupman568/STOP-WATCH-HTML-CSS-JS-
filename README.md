@@ -2,6 +2,8 @@
 
 Welcome to the **Stopwatch** project! 🎉 This stopwatch allows you to measure time intervals with precision. Built with **HTML** 📝, **CSS** 🎨, and **JavaScript** 💻, this stopwatch provides a simple yet effective tool for timing various activities. ⏲️🌟
 
+Project Demo: https://nidhiupman568.github.io/STOP-WATCH-HTML-CSS-JS-/
+
 ## 📋 Description
 
 The **Stopwatch** accurately measures elapsed time ⏳ in hours ⏳, minutes ⏰, seconds ⏱️, and milliseconds ⏲️. It features intuitive controls for starting ▶️, pausing ⏸️, and resetting 🔄 the stopwatch. Whether you’re timing your workout 💪, tracking study sessions 📚, or managing tasks ✅, this stopwatch is designed to be reliable and easy to use. The interface is clean and responsive 📱, ensuring a seamless experience on any device. 🌟
